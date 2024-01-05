@@ -10,7 +10,6 @@ import Select from "./Select";
 import Signup from "./Singup";
 import Button from "./Button";
 import AuthLayout from "./AuthLayout";
-import PostCard from "./PostCard";
 
 
 export {
@@ -24,7 +23,6 @@ export {
     Signup,
     Button,
     AuthLayout,
-    PostCard,
     Select,
     Input,
     
